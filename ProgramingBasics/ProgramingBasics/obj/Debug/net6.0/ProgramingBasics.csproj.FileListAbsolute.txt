@@ -1,0 +1,15 @@
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\bin\Debug\net6.0\ProgramingBasics.exe
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\bin\Debug\net6.0\ProgramingBasics.deps.json
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\bin\Debug\net6.0\ProgramingBasics.runtimeconfig.json
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\bin\Debug\net6.0\ProgramingBasics.dll
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\bin\Debug\net6.0\ProgramingBasics.pdb
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\obj\Debug\net6.0\ProgramingBasics.csproj.AssemblyReference.cache
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\obj\Debug\net6.0\ProgramingBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\obj\Debug\net6.0\ProgramingBasics.AssemblyInfoInputs.cache
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\obj\Debug\net6.0\ProgramingBasics.AssemblyInfo.cs
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\obj\Debug\net6.0\ProgramingBasics.csproj.CoreCompileInputs.cache
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\obj\Debug\net6.0\ProgramingBasics.dll
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\obj\Debug\net6.0\refint\ProgramingBasics.dll
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\obj\Debug\net6.0\ProgramingBasics.pdb
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\obj\Debug\net6.0\ProgramingBasics.genruntimeconfig.cache
+C:\Users\3dstu\Desktop\Projektek\LaskoiAdam_Program_base\ProgramingBasics\ProgramingBasics\obj\Debug\net6.0\ref\ProgramingBasics.dll
