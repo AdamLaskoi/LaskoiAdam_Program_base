@@ -227,7 +227,7 @@ for (int a = 1; a <= 10; a++)
 
 //-------
 //metodusok
-
+/*
 double f1 = 12.5f;
 double f2 = 3;
 
@@ -235,3 +235,4 @@ double power = Math.Pow(f1,f2);
 double power2 = Math.Pow(45, 11.5);
 
 double f3 = Math.Abs(f1);
+*/
